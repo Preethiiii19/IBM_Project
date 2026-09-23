@@ -47,11 +47,11 @@ This project answers that question using real LinkedIn job postings, grounded in
 | [`Preethi_ProjectReport.docx`](Preethi_ProjectReport.docx) | Full project report (Introduction → Future Scope) |
 | [`requirements.txt`](requirements.txt) | Python package dependencies |
 | [`README.md`](README.md) | This file |
-| `chart1_top20_skills.png` | Top 20 skills — horizontal bar chart *(generated on run)* |
-| `chart1b_level_donut.png` | Associate vs. Mid-Senior split — donut chart *(generated on run)* |
-| `chart2_skills_by_level.png` | Top skills by job level — grouped bar *(generated on run)* |
-| `chart3_skills_by_jobtype.png` | Top skills by job type — grouped bar *(generated on run)* |
-| `chart4_volume_country_jobtype.png` | Posting volume by country × work type — stacked bar *(generated on run)* |
+| [`chart1_top20_skills.png`](chart1_top20_skills.png) | Top 20 skills — horizontal bar chart *(generated on run)* |
+| [`chart1b_level_donut.png`](chart1b_level_donut.png) | Associate vs. Mid-Senior split — donut chart *(generated on run)* |
+| [`chart2_skills_by_level.png`](chart2_skills_by_level.png) | Top skills by job level — grouped bar *(generated on run)* |
+| [`chart3_skills_by_jobtype.png`](chart3_skills_by_jobtype.png) | Top skills by job type — grouped bar *(generated on run)* |
+| [`chart4_volume_country_jobtype.png`](chart4_volume_country_jobtype.png) | Posting volume by country × work type — stacked bar *(generated on run)* |
 
 ---
 
