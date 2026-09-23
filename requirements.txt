@@ -1,0 +1,21 @@
+# ── Core data manipulation ─────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Visualisation ──────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Jupyter environment ────────────────────────────────────────────────────────
+notebook>=7.0.0
+ipython>=8.0.0
+nbconvert>=7.0.0
+
+# ── IBM watsonx.ai (AI Layer — Section 3) ─────────────────────────────────────
+# Required only if you want live LLM generation.
+# The notebook runs fully without it; set WATSONX_API_KEY + WATSONX_PROJECT_ID
+# to enable the IBM Granite model call.
+ibm-watsonx-ai>=1.0.0
+
+# ── Standard library (no install needed) ──────────────────────────────────────
+# collections, os, re, warnings — all built into Python 3.8+
